@@ -13,12 +13,4 @@ Estudiante de Ingeniería Informática
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## Algunos proyectos
-
-### [Bot de Tráfico](https://github.com/agmonetti/Bot-Trafico-Argentina)
-
-### [Analizador de Cookies](https://github.com/agmonetti/cookie_analyzer)
-
-### [Bot Estado Subte](https://github.com/agmonetti/Bot-Subte)
-
-- 📧 [agmonetti@uade.edu.ar]
+##📧 [agmonetti@uade.edu.ar]
