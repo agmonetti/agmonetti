@@ -16,10 +16,8 @@
 ## Algunos proyectos
 
 ### [Bot de Tráfico](https://github.com/agmonetti/Bot-Trafico-Argentina)
-Me hartó quedar trabado en el tráfico porteño, así que hice un bot que avisa antes. Python + API de tráfico + Telegram.
 
 ### [Analizador de Cookies](https://github.com/agmonetti/cookie_analyzer)
-Extensión que te dice qué tan creepy son las cookies de las páginas. Proyecto para entender mejor la privacidad web.
 
 ### [Bot Estado Subte](https://github.com/agmonetti/Bot-Subte)
 
