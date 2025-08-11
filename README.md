@@ -1,7 +1,7 @@
 ## Agustín Monetti
 
-##**Buenos Aires, Argentina**
-##**Estudiante de Ingeniería Informática**
+## Buenos Aires, Argentina
+## Estudiante de Ingeniería Informática
 
 
 ## Aprendiendo...
