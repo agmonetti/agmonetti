@@ -17,4 +17,6 @@ Estudiante de Ingeniería Informática
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-📧 [agmonetti@uade.edu.ar]
+📧 [agmonetti@uade.edu.ar](mailto:agmonetti@uade.edu.ar)  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin/)
