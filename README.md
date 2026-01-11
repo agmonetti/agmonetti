@@ -26,4 +26,4 @@ Estudiante de Ingeniería Informática  | Computer Science Student
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-monetti/)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fagmonetti%2Fagmonetti&label=Visitas&countColor=%2337d67a&style=flat&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fagmonetti%2Fagmonetti&label=Visitas&countColor=%230969da&style=flat&labelStyle=upper)
