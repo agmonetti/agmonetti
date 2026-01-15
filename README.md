@@ -1,8 +1,10 @@
-# Agus Monetti
+# Agus Monetti [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-monetti/)
+
 
 Buenos Aires, Argentina  
 Estudiante de Ingeniería Informática  | Computer Science Student
 
+📧 [agmonetti@uade.edu.ar](mailto:agmonetti@uade.edu.ar)   
 
 ## Aprendiendo | Learning...
 
@@ -21,7 +23,3 @@ Estudiante de Ingeniería Informática  | Computer Science Student
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-📧 [agmonetti@uade.edu.ar](mailto:agmonetti@uade.edu.ar)  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-monetti/)
