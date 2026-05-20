@@ -4,7 +4,7 @@
 Buenos Aires, Argentina  
 Estudiante de Ingeniería Informática  | Computer Science Student
 
-📧 [agmonetti@uade.edu.ar](mailto:agmonetti@uade.edu.ar)   
+📧 [agus.monetti01@gmail.com](mailto:agus.monetti01@gmail.com)   
 
 ## Aprendiendo | Learning...
 
