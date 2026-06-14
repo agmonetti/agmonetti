@@ -2,6 +2,6 @@
 
 
 Buenos Aires, Argentina  
-Estudiante de Ingeniería Informática  | Computer Science Student
+Estudiante de Ingeniería Informática  | Computer Engineer Student
 
 📧 [agus.monetti01@gmail.com](mailto:agus.monetti01@gmail.com)   
